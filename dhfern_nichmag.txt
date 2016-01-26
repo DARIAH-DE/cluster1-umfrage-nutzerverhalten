@@ -1,0 +1,79 @@
+Zugriff 
+Zu komplexe Eingeschaften und Einstellungen!
+wenn sie nicht funktioniert, z.B. Formatierung nicht klappt
+Versionenkonflikte
+Teils zu umfangreiche Funktionen, teils zuwenig.
+TabellArischer ueberblick
+Standard-Software mit teilweise sehr großem Funktionsumfang, der regelmäßig nicht benötigt wird. Wird aber durch weite Verbreitu g und Kompatibilität ausgeglichen
+N/a
+"MS Word: zu viele Funktionen; als Outliner begrenzt nutzbar 
+TheBrain: wenig verbreitet; Exportfunktionalität begrenzt; Annotationen nicht möglich"
+mangelnde (nutzerfreundliche) Möglichkeiten der graphischen Darstellung
+Kompliziertheit
+Kompatibilitätsprobleme (Mac/PC); 
+Instabilität
+Im Fall von CAD und GIS liegen schonmal zwei Softwaregiganten vor , die nicht nur Speichervolumen und leistungsfähige Rechner benötige. Insbesondere die Lizenzen von kommerziellen Firmen gegrenzen die Anzahl an Arbeitsplätzen ein und schrecken somit einige Einrichtungen ab, diese als Forschungs- und Verwaltungsinstrumente zu nutzen.
+FileMaker Pro ist teuer und die einzelnen Software-Versionen sind nicht kompatibel
+ewq
+Dokumente können auf sämtlichen Rechnern geöffnet werden, da kostenlos.
+Die vergleichsweise eingeschränkten Layot-Möglichkeiten bei MS Word, den vergleichsweise geringen Datenumfang, der sich ohne größere Probleme mit MS Access bewältigen lässt, die häufigen Systemabstürze bei ArcMap, die wiederholt zu Datenverlusten führen und die eingeschränkten Möglichkeiten in MS Exel, von mehreren Anwendern zugleich auf den in den Dateien vorhandenen Datenbestand zuzugreifen.
+Dass sie zumeist separat von der später genutzten Software liegt und sich nicht unmittelbar anbinden lässt, sie komplexen Aufgaben nicht gewachsen ist. 
+Bevormundung, d. h. zunehmende Autokorrekturfunktionen und vordefinierte Makros zur Dokumenteinrichtung
+Benutzerfreundlichkeit mangelhaft
+Bei großen Datenmengen Überforderung (Word)
+Autokorrekturen
+"auf Text beschränkt
+"
+"Adobe: Monopol, Preis
+Filemaker: ungenügende Funktionen für Webpublishing, arbeitet kaum mit HTML/PHP zusammen, schlechte SQL Schnittstelle
+Office: zu kompliziert, zu viele Funktionen (wie Layout), die dafür schlecht umgesetzt sind, MS = Dinosaurirer"
+* immer an Akkulaufzeit gebunden
+umständliches Navigieren, wenig Datensätze auf einer Seite
+Tab-Gruppen und Tab-Synchronisation in Firefox vertragen sich leider nicht sehr gut: Bei der Übersicht über die Tabs auf anderen Rechnern werden die Gruppen ignoriert.
+siehe oben
+Rapid wachsende Tendenz zur online-Vernetzung von Diensten und Inhalten; das damit verbundene Abschöpfen von persönl. Daten.
+Opera: Kompatibilität mit manchen Recherche-Websites
+nicht immer stabil, stürzt ab
+Netzausfall
+Mangelnde Einbindung in Open Office
+Langsamkeit, beschraenkungen
+"Firefox: Probleme mit Shockwave Flash
+Zotero: -
+Copernic: - "
+FileMaker Pro ist teuer und mangelnde Kompatibilität zwischen verschiedenen Versionen
+Fehlende Funktionalitäten. Es lassen sich nur recht umständlich Verweise, Gedanken und Inhalte der Literatur festhalten. Citavi wäre hier zwar viel besser, hat aber (nachdem es die Nutzer jahrelang getäuscht hat) keine (praktikable) Lösung für den Mac, welcher sich insgesamt m.E. viel besser für die Forschungsarbeit nutzen lässt.
+Es gibt keine in diesem Fall keine nachteiligen Anmerkungen zu machen.
+eingebetteter PDF-Viewer zu klein und langsam, keine Annotationsmöglichkeiten
+DAtenabgleich, BTS ist leider veraltet und wird gerade neuentwickelt.
+"Barrierefreiheit" zwischen verschiedenen Systemen, teils geht Format verloren
+wenig verbreitet, Austausch schwer, kein Überarbeitungsmodus für andere Nutzer
+s. o.
+"MS Word: wird schnell unübersichtlich
+Zotero: -
+TheBrain: - "
+Instabilaet
+Hier treffen die gleichen Angaben zu wie für die Eingangsfragen.
+Berichtsfunktion umständlich
+Auch hier, je nach Ausgangsbetriebssystem, Probleme mit der Kompatibilität der Dokumentformate untereinander
+Acrobat Reader steht für Windows Vista nur in einer veralteten Version zur Verfügung. 
+"* fehlende Schnittstelle von MS Word zu anderen Schreibprogrammen
+* Akkulaufzeit"
+"Zotero: -
+MS Word: Dokumente mit über 100 Seiten sind immernoch problematisch; Fussnoten werden noch immer (nach über 20 Jahren) nicht korrekt dargestellt (Zahl auf der einen, Fussnote auf der anderen Seite)"
+wenig übersichtlich insbesondere bei großen Datenmengen
+Voreinstellungen, deren Ausschalten kaum möglich ist, da man gar nicht weiss, unter welchen der vielen Reiter man das Häkchen findet.
+Semantikaspekt
+sehr steile Lernkurve; geringen Verbreitung in den archäologischen Wissenschaften erschwert die Behebung von auftretenden Problemen
+s. o.
+relativ unübersichtlich und schwer zu erlernen
+Powerpoint lässt sich gut verwenden um grafiken zu bauen
+Kosten, mangelnde Kompatibilität
+Für MS Access, MS Exel und ArcMap treffen hier die gleichen Angaben zu wie eingangs beantwortet. AutoCAD: die vergleichweise umständliche interpretative Überführung von linearen und punktförmigen Daten in Flächen.
+Eindimensionalitaet der Textebenen
+"Wordpress: -
+MS Word: automatische Anwendung von Formatvorlagen (umständliche (Vor-)Formatierung des Dokuments)"
+MS Word - siehe Eingangsfrage. Adobe Illustrator und Indesign - extrem umfangreiche Menüs mit dadurch leider wenig übersichtlicher und zudem nicht immer logisch zu erfassender Menüsteuerung.
+"Kile: Unübersichtlichkeit des Texts
+Open/Libre Office: mangelnde Bibtex-Anbindung"
+hat Autotools, die sich schwer abstellen lassen
+Änderungsverfolgung ist Horror wird aber oftmals im Datenaustausch verwendet, obwohl Kompatibiliätsprobleme

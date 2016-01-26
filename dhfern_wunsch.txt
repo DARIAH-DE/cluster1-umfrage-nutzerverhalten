@@ -1,0 +1,85 @@
+Zitieren, Fußnoten sind automatisiert
+Word: einfache Handhabung (what You See is what You get)
+Stabile Integration von Zotero in LibreOffice, Verbesserung der Integration von GoogleDocs und LibreOffice
+Projektmanagement-Funktionalitäten
+Präzise Erfassungsmasken und Sortiermöglichkeiten für Archivalien
+nutzerfreundliche Möglichkeiten der graphischen Darstellung von Brainstorming, Mindmaps, Abläufen, Konzepten, etc.; ein Wiki
+Noch bessere Planungs- und Verwaltungsmöglichkeiten
+"MS Word: - (eigenes Verschulden, dass Word in dieser Phase benutzt wird und kein Outline-Programm)
+TheBrain: mehr wissenschaftliche Funktionen (Annotation, Datenaustausch, ...)"
+mehr layoutmöglichkeiten
+mehr interaktive Elemente, das leichtere Einbinden von Grafiken, bessere Gestaltungsmöglichkeiten, bessere Verbindung mit anderen Programmen
+Literaturverwaltung
+Kommt dem Papier sehr nahe. Für den ersten geistigen Prozess gar nicht schlecht.
+Kollaboratives Arbeiten wäre hilfreich, besonders wenn es sich auch aus einer Desktop-Anwendung wie LibreOffice heraus realisieren ließe.
+Interroperabilität, 
+Ich möchte in meiner Kreativität nicht durch zu starre Schemata eingeengt werden
+Generell: Ich wünsche mir eine Software, welche die Forschungsarbeit von Planung/Konzeption bis Publikation während des gesamten Prozesses begleitet. Diese sollte sodann die Forschungsdokumentation automatisiert ablaufen lassen, indem sie (ähnlich einem Edupad-Zeitstrahl) alles geschriebene sowie die zeitliche Zuordnung etc. speichert. Diese Software sollte vom Forschungsministerium allen Universitäten zur Verfügung gestellt werden und für diese Insitutionen sowie Forscher insgesamt kostenlos verfügbar sein.
+F5 
+ewq
+Eue software information
+Es fehlt eine übergreifende Datenbanklösung, in der Literatur, Personen, Orte, Index rerum und weitere Register angelegt und verwaltet werden können und die weitgehend automatisiert in die Arbeit integrierbar ist (leichte Implementierung in Projekte, hohe usability)
+Einfacherer zugriff auf relevante Exzerpte, bessere Hierarchisierung
+Die Beseitigung der o.g. Einschränkungen.
+Desiderat: eine schlicht konstruierte Datenbank, die weniger komplex = besser verständlich als MS Access ist.
+Bessere ūbersicht
+"Adobe: 3D Funktionen
+Filemaker: endlich gute SQL/HTML/PHP Schnittstellen
+Office: bei Word: Konzentration auf den wesentlichen Bereich, also die Textredaktion, alles Andere aus dem Programm streichen"
+* Schnittstelle zwischen Evernote und MS Word
+(Latex) automatische bibliografieren und zitieren
+Zugriff auf mehr Datenbanken
+Vorschaufunktion, das Inhaltsverzeichnis ist einsehbar; Links zu Google books; Suche speicher, Favoriten im Opas Konto 
+Stabile Integration von Zotero in LibreOffice
+Praktisch ist, dass man die zitierweise exportieren, es ist einfach ein literaturverzeichnis zu erstellen.
+Persönliche Notizen, Verweise, Gedanken und Inhalte sollten sich sekundenschnell und übersichtlich (auch umfangreicher) festhalten lassen. Es sollte eine Full-Screen-Oberfläche inklusive eines Browsers zur Recherche geben, welcher in individuell vordefinierten Datenbanken gleichzeitig recherchiert. Es sollten sich hier auch bereits größerer Textstücke einfach formatiert erstellen und exportieren lassen.
+Open Source, 
+Noch bessere Integration
+LitLink: einfach zu installierende Cloudversion für verschiedene Betriebssysteme
+Kompatibilität mit Linux (für EndNote) oder für JabRef: direkte Anknüpfung an online-Kataloge und somit auch direkter import in Literaturliste
+Keine Wünsche - die vorhandene Software reicht für meine Zwecke aus.
+Geschwindigkeit
+Gemeinsame Annotations, verbesserte OCR in PDF-Erstellung bei abfotografierten Quellen, Einheitlichere Systematiken
+"Firefox: 
+Zotero: mobile Version (Android); Eintragsart selbst erstellen können
+Copernic: - "
+Eine bessere Synchronisation wäre hier sehr hilfreich, um z.B. eine separate Tab-Gruppe für die Recherche zu einem Thema auch über mehrere Rechner hinweg pflegen zu können.
+Citavi für OS X
+bessere Dokumentation Rechercheergebnisse, Export Rechercheergebnisse in z.B. Literaturverwaltungsprogramm
+Automatische Erkennung von ISBN bei detaillierter Eingabe von Metadaten der Quellen/Literatur
+Überarbeitungsmodus, Übetragbarkeit in andere Schreibprogramme
+s.o.
+Neue software
+"MS Word: - 
+Zotero: -
+TheBrain: -"
+Hier treffen die gleichen Angaben zu wie für die Eingangsfragen.
+Die Schreibprogramme könnten vielfältiger sein, um einzelne Funktionen bei der Manuskripterstellung besser zu exportieren.
+* Schnittstelle zwischen Evernote und MS Word, sofern es möglich wird, in Evernote Fußnoten zu notieren
+"Zotero: -
+MS Word: Endlich Fussnoten korrekt darstellen"
+"siehe zuvor gemachte Angaben.
+Die Nutzung völlig unterschiedlicher Software für unterschiedliche Arbeitsabschnitte, ist praxisfremd. Niemand hat Zeit, sich in so viele unterschiedliche Werkzeuge einzuarbeiten. Nützlich ist nur eine Softwareumgebung, die vom ersten bis zum letzten Tag begleitet."
+Semantik, interroperabilität, Development, Nachhaltigkeit 
+s. o.
+Nutzerfreundlichkeit, Visualisierungsmöglichkeiten, Annotationsmöglichkeiten
+Mehr Kurse; mehr einfache, Praxisbezogene Dokumentation; vorhandenes WIKI könnte schneller wachsen!
+Kompatibilität zwischen einzelnen Softwareversionen, Nutzbarkeit auf verschiedenen Betriebssystemen (für länger andauernde Forschungsprojekte, inkl. Rechnerwechsel muss die Software mehrfach angeschafft werden)
+Keine Ahnung. Ich komme ganz gut klar.
+Idealiter liefe ein gemeinsames Backend zur Synchronisierung der verschiedenen Datentypen. Eine Durchsuchbarkeit auch bei schwachen Internetanbindungen Serverseitig (z.B. auf Archivreise, bei Anbindung per Mobilfunk etc.) wäre sehr wünschenswert. Eine Cloud-basierte Lösung hätte Vorteile, allerdings überwiegen bei mir Sorgen um die Sicherheit der Daten (daher: TrueCrypt-Containerlösungen, mit allen damit verbundenen Nachteilen). 
+eine auf Quellensammlung zugeschnittene Vorlage o.ä.
+Ein R-Kernel für IPython Notebooks (der aber meines Wissens bereits in der Entwicklung ist).
+Die Erstellung von visualisierungen
+Die Behebung des angesprochenen.
+Daten anschlussfähig machen fuer andere software
+Bisher habe ich noch in dem Maße publiziert, bisher reichte Word aus.
+Ein kollaborativer Online-Editor für Markdown, der auch akademische Zusatzfunktionen von Pandoc wie z.B. Zitation unterstützt, wäre hilfreich für gemeinsame Publikationen.
+Eine gewisse Überarbeitung der o.g. "Negativseiten".
+Indesign wäre für mich die Wahl für alles, wenn es eine praktikable Literaturverwaltung und Datenbank sowie automatisierte Zitation bieten könnte. Außerdem wäre eine bessere Dokumentation (wie unter "Generell" beschrieben) wünschenswert. Ich glaube auch, dass das die Produktivität erheblich verbessern würde. Allerdings sollte ein so mächtiges und mit Forschungsdaten arbeitendes Tool nicht aus privater Hand kommen, sondern vom Forschungsministerium bereitgestellt werden. Die Universitäten sollten dahinterliegende Cloud-Datenbanken verschlüsselt bereitstellen und so ihrer Verantwortung für die Forschungdaten endlich gerecht werden. Die Dokumentation könnte dabei ebenfalls automatisiert erfolgen.
+Mehr Nutzung von PDF (Softwareneutral in der Erstellung), die von den Lektoren annotiert werden - Verpflichtung auf Word und mangelnde Kompatibilität mit OpenOffice-Programmen ist ein Problem.
+Open/Libre Office: Bibtex-Anbindung
+s. o.
+siehe zuvor gemachte Angaben 
+Veröffentlichungen mit Bildern formatieren
+"Wordpress: -
+MS Word: Einfache und intuitive Formatvorlagenverwaltung und -anwendung"

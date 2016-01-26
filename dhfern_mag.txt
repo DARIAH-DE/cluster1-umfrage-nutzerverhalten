@@ -1,0 +1,174 @@
+vor allem Visualisierung
+Visualisierungsmöglichkeiten; Tag-Möglichkeit/Suchmöglichkeit; 
+Verwaltung von Datenmengen mit Excel; die Möglichkeit, Abfragen nach versch. Kriterien vorzunehmen.
+Verknüpfung verschiedener Datenbanken (Litlink)
+Verfügbarkeit, d.h. Austauschmöglichkeit im Team
+"Übersichtstabellen
+Durchsuchbarkeit"
+Stylesheets ab ms2010
+Stabilität, leichte Bedienbarkeit
+Sie muss geeignet sein, spontane Ideen möglichst schnell festzuhalten; sie muss in besonderer Weise einfach bedienbar sein; ich muss Begriffe und Themen in ein Relationsschema stellen können; zu den Themen und Gliederungspunkten sollten sich sogleich wichtige Fragen und Hinweise sowie Literatur zuordnen lassen.
+Sie ersetzt mir schlicht auf intelligente Weise eine Schreibmaschine. Was soll man mit Word sonst noch machen?
+"schnelligkeit, ausreichende flexibilität, keine starre vorgaben (z.b. einschränkende eingabemöglichkeiten etc.)
+Enstandene Inhalte können relativ leicht weiterverarbeitet werden"
+relativ einfache Bedienung, Gestaltungsmöglichkeiten
+"Reduktion, wegen Konzentration auf des Wesentlich
+Flexibilität und Visualisierung, um Abfolgen von Ideen zu erproben
+"
+Projektmanagementähnliche Strukturen
+Multilingualität, Benutzerfreundlichkeit 
+"MS Word: Konzeption kann schnell schriftlich formuliert werden. Rechtschreibprüfung für verschiedene Sprachen. Gute Möglichkeit des Datenaustauschs.
+
+Citavi: übersichtliche Sammlung wichtiger Materialien. Dokumentation des aktuellen Forschungsstandes. In der Planungsphase kann die erste Konzeption bereits in Kategorien umgesetzt werden."
+"MS Word: -
+TheBrain: Dynamisches Mindmapping - Gedanken zusammentragen, strukturiertes und verbindendes Brainstorming"
+"Kompatbibilität / Format-Standardisierung
+"
+Kategorienbildung bei literaturrecherche
+"In CITAVI: 
+-Möglichkeit Gedankenelemente einzeln zu speichern und zu verknüpfen, wobei diese Funktionen in CITAVI noch weiter ausgebaut werden könnten
+-Literatur zu organisieren (zu verknüpfen, zu verschlagworten, zu bewerten etc.)
+In WORD:
+- im Gegensatz zu CITAVI ermöglicht WORD mehr Freiheiten eigene Systematiken, die nicht ins Schema passen zu entwerfen. Vor allem lassen sich hier Texte (etw. thematische Dossiers) entwerfen, die sich in Gliederungsebenen aufspalten"
+Ich nutze allenfalls word und dies nur als Schreibmaschine, mit der Entwicklung des Projektes hat das nichts zu tun, die findet auf Papier und im Kopf statt
+Ich kenne keine anderen
+hat jeder
+für alle Mitarbeiter verfügbar, einsehbar und annotierbar
+Frei und open. Dokumentiert, kein Schnick Schnack, leicht und performant
+"Flexibilität (kann ich nutzen, ohne genau zu wissen, wo die Reise hingeht) => Schlagworte in FileMaker, Anpassbarkeit (mit Filemaker Pro kann ich Datenbanken konfigurieren nach eigenen Bedürfnissen) 
+Verfügbarkeit von unterwegs (DokuWiki), ohne Cloud-Dienste Dritter nutzen zu müssen, "
+Erzeugung interoperabler Datenformate. Dynamische Kommentarfunktionalität. OpenSource.
+Erstellung von Exzerpten zu relevanter Literatur, Verschlagwortung
+Einfachheit in der Bedienung
+Einfachheit
+"Einfache Handhabung. Keine Standardeinstellungen, die meist nur stören. 
+Kein Zeitverlust der beabsichtigen Anwendung, nämlich inhaltlich zu arbeiten.
+Die Idee des Programms, die technischen Aspekte der Software sind für mich uninteressant."
+einfache Benutzung da bekannt
+Einfach Bedienung
+Dokumente werden schnell gespeichert und auf vielen Geräten erkannt
+Dient lediglich dem Schreiben
+Die Medien/Dateien sind gut mit anderen Projektteilnehmern austauschbar. Man kann mit Ihnen erste Kalkulationen und somit genauere Planungen durchführen.
+Die Kompatibilität der Programme, da sich Daten zwischen den einzelnen Programmen vergleichsweise leicht austauschen lassen.
+Die Grafik-Funktionen z.B. zur Erstellung eines Gantt-Diagramms und die Im- und Export-Möglichkeiten (z.B. SVG zur Weiterverarbeitung der Grafiken)
+Brainstorming, Literatur sammeln und verwalten; automatische Titelsuche per ISBN
+beispielsweise leichte Erstellung einer Tabelle, Suchfunktion, leichte Aktuallisierung bei Änderungen
+"Anpassungsfähigkeit
+Qualität"
+"Adobe: Standard, Zusammenarbeiten der einzelnen Programme, hohe Qualität, Workflow
+Filemaker: Preis, einfache Handhabung, guter Funktionsumfang
+MS Office: hohe Verbreitung"
+"* Synchronisierung (und damit Nutzung mit mehreren Endgeräten an verschiedenen Orten, teilweise auch mit mehreren Nutzern (Evernote, zotero))
+"
+3000
+Zugriff auf verschiedene Online-Kataloge mit direkter Importmöglichkeit.
+"Zu MS Word und Excel s. o. ""Planung und Konzeption""
+
+Lesezeichenverwaltung beim Speichern von Webseiten 
+
+Speichern von E-Mails als Dateien"
+Viele und kombinierbare Suchmöglichkeiten; Verschlagwortung
+Verknüpfung von Literaturverwaltung, Zitation und Mindmapping
+Uebersicht
+überall verfügbar
+Tellico: Skalierbarkeit, Konfigurierbarkeit, Recherchepotenzial
+schneller Zugang zu den in deutschen Bibliotheken vorhandenen Publikationen
+Literaturverwaltung, LaTeX-kompatibel, Wissens-Gliederung, Ideen-Sammlung
+Literatur lässt sich reletavi einfach erfassen
+Leider geht die Frage an der Realität meines Forschungsprozesses vorbei, in dem ich mich auf die software der Dienstleister (Archiv/Bibliothek/online pressedienste/internet etc.) verlasse. Deren software kenne ich gar nicht.
+leichte Suche, Möglichkeit Suche einzuschränken/zu präzisieren
+leichte Erstellung einer Tabelle
+Keinne keine andere
+"Integrationsmöglichkeit - Zotero + Word
+Leichter Zugriff"
+Integration in Firefox. Zotero-Gruppen für Themenbereiche. Zitation, Tagging und Notizen
+"Installation von Plugins, Lesezeichen, Suchmaschinenoptimierung (Firefox)
+Anlegen von Bibliografien, Einbindung in Word, Export von Bibliografien, Erstellung von Literaturverzeichnissen (Zotero) 
+Beide Programme miteinander verknüpfbar "
+Flexibilität, fließender Übergang zwischen verschiedenen Devices, Interoperabilität
+"Firefox: Als Browser wird die Online-Recherche ermöglicht (inkl. Archiv- und Bibliothekskataloge)
+Zotero: Literaturverwaltung; zentrale DB für alle Rechercheergebnisse; Sync über Platformen hinweg
+Copernic: Schnelle, einfache Suche in eigenen Dateien"
+Erreichbarkeit, umfang
+EndNote: direkte Anknüpfung an online-Kataloge und somit auch direkter import in Literaturliste
+Eingegebene Daten können leicht durchsucht werden, Herkunft kann nachvollzogen werden und gleichzeitig wird Publikationsassistent bereitgestellt (Citavi)
+Einfachheit, Funktionen
+"Einfache Einteilung in Sinnabschnitte, um Exzerpte, Zitate etc. zu strukturieren
+Überblick über Bildmaterial"
+"Die Import-Möglichkeiten aus Datenbanken in Zotero, die Gruppen-Funktion von Zotero.
+Die Lesezeichen-Funktion mit Tagging in Firefox, Tab-Gruppen und Tab-Synchronisation von Firefox"
+Datenbanksystem
+"Berlin Text System ist eine Eigenentwicklung aus den 90-er Jahren und entsprechend veraltet.
+
+Mit dem BTS wird ein ägyptischer Korpus erstellt und Wortlisten. Texte werden lemmatisiert.
+Wichtig sind: Lemmatisierung, Metadateneingabe, Eingabe von Hieroglyphen, linguistische Recherche"
+Benutze die Software nur zum Einstieg in die Recherche (vorwiegend offline-Recherche in Form von Feldforschung/Materialsammlung) insofern keine qualifizierte Aussage möglich.
+An OpenOffice schätze ich zum einen, dass es frei zugänglich ist und dass es gängige MsOffice-Dateien öffnen kann, womit ein Austausch mit Kollegen stattfinden kann.
+Adobe Bridge ermöglicht das Verschlagworten von digitalen Quellen (Fotos aus Archiven) und eine gute Suche sowie Vorschau; Filemaker hat eine gute Anpassbarkeit für eigene Forschungsbelange
+* Synchronisierung: Kann daheim im opac nach Signaturen schauen, diese in Evernote speichern und mit dem Handy in der Hand sie in der Bibliothek aus dem Buchregal nehmen. Mir anschließend mit dem Notebook in der Bibliothek Notizen zu dem Nutzen, u.ä. des Buches machen.
+Wichtig ist die Formulierung meiner Forschungsfrage. Hierfür ist eine Textverarbeitung erforderlich, die leicht zu bedienen ist und kompatibel für den Austausch mit Kollegen.
+Verfügbarkeit von unterwegs (DokuWiki)
+Verbreitung
+s. o.
+Quantitative Auswertungen
+"MS Word: Überarbeitungsmodus (Nachvollziehen, was geändert wurde), Verschieben von ganzen Kapiteln
+Zotero: Integration in MS Word (keine Gedanken mehr um korrekte Literaturangaben mehr machen)
+TheBrain: Darstellung der vernetzten Informationen (auf einen Blick die zugehörigen Infos)"
+"Kommentarfunktion, Änderungsverfolgung, um mit anderen zusammenzuarbeiten
+Cut and Paste, um Änderungen umzusetzen
+Zusammenführen von Text und Bild, um Thesen zu erproben"
+keine Formatierungsprobleme, Übersichtlichkeit durch Gliederung
+Ich schreibe nur und speichere Web-Seiten und Bilder, mehr muss meine Software nicht können
+Ich nutze keine andere als die bisher genutzte Software. siehe dort.
+Hier treffen die gleichen Angaben zu wie für die Eingangsfragen.
+Funktionsumfang 
+Flexibilität 
+Flexiber Umgang auch mit großen Datenmengen (>500MB pro PDF)
+Die Abbildung gescanter Archivalien. 
+"* Kollaboratives Arbeiten (zotero)
+* Fußnoten (MS Word)
+* Open Source (zotero)
+* Synchronisation (omnicloud, zotero)"
+"Zotero: Keine Gedanken um korrekte Annotation machen müssen
+MS Word: - "
+You can retrieve terms in the original context 
+"Vernetzung, Export, um Daten nicht mehrmalig eingeben zu müssen
+Einfache Formatierung, Änderungsverfolgung, Kommentarfunktion, um Überarbeitungssignale zu setzen "
+Verfügbarkeit und offene Datenformate. Austausch innerhalb der Projektgruppe. Webbasierte Schnittstellen (Erreichbarkeit)
+Tellico: Analysemöglichkeiten / Suche / Filter / Gruppierung
+Tabellen und Grafiken, mit denen man statistische Funktionen sichtbar machne kann
+"Schnelligkeit, Stabilität. Unglaublich vielseitig, Lösungswege für (fast) alle individuellen Fragestellungen möglich, selbst programmierbar unter Verwendungund Kombination praktisch aller Module.
+Ein System für alle Arbeitsschritte von der Datenaufnahme, über die Datenanalyse bis zur Veröffentlichung.
+Plattformunabhängiges, kollaboratives Arbeiten möglich"
+s. o.
+OpenSource und daher ohne Lizenzgebühren und -server einsetzbar; maximale Reproduzierbarkeit der Ergebnisse aufgrund der Nutzung gängiger Programmiersprachen
+leichte Korrigierbarkeit, Flexibilität
+gutes Schreibprogramm
+Für MS Access, MS Exel und ArcMap treffen hier die gleichen Angaben zu wie eingangs beantwortet. AutoCAD: die präzise zwei-/dreidimensionale Plan-/Zeichnungserstellung aus den analysierten/interpretierten Daten.
+Formeleingabe, Übersichtlichkeit
+Flexibilität, Anpassbarkeit
+Dokumemtation
+Die Möglichkeit, Übersicht zu gewinnen und graphisch darstellen zu können.
+Datenbankauszüfe als Tabelle darstellbar, sortierbar und visualisierbar
+Benutzerfreundlichkeit
+Bedienerfreundlichkeit, Schnelligkeit, vielfach einsetzbar
+* Verschlagwortung (zotero)
+Zu MS Office s.o.
+"Wordpress: schnell und einfach eingerichtet; passable Darstellung; Erweiterbarkeit durch plug-ins (Funktionalität erweitern)
+MS Word: Verbreitung (Vorgaben können einfach umgesetzt werden); Überarbeitungsmodus (wichtig für Kommunikation mit Verlag);"
+Welche Software die Redaktionen benutzen weiß ich nicht.
+"Satzprozedur, kombiniert aus mehreren Modulen, zum Satz gepflegter Typograhie mit anspruchsvollem Layout, komplexer Editionen mit mehreren Apparaten, Vielsprachigkeit incl. griechisch, hebräisch etc.; Registerherstellung mit eigenen Sortieralphabeten; eigene Projektbezogene Prüfroutinen;
+Plattformunabhängiges, kollaboratives Arbeiten möglich;
+professionelle PS-Ausgabe; Verlag schätzt sehr die Qualität der Daten."
+MS Word - siehe Eingangsfrage. Adobe Illustrator und Indesign - leichter Datenimport und sehr variable Erstellung von Layouts und Druckvorlagen von Grafiken und Texten.
+LaTex ist flexibel und OpenSource, Word ist kostenintensiv und leider viel zu verbreitet 
+"Kile: professioneller Output, Anbindung an Bibtex-Literaturdatenbank (Jabref)
+Open/Libre Office: Formatierbarkeit, WYSIWYG
+"
+Indesign-Funktionalitäten lassen sich - was die PDF-Vorbereitung und Feineinstellung sowie Genauigkeiten der Druckdaten angeht - kaum überbieten.
+Ich verfasse meine Publikationen mit word, doch dann gehen sie an Verlage, die sie mit anderen Programmen weiterverarbeiten, die ich weder kenne noch benutze. In der Regel sieht man als Autor dann nur noch die pdfs der proofs. Insofern ist die Frage unglücklich gestellt, Autoren haben ja nur bis zu einem gewissen Grad ihre Manuskripte selbst in der Hand.
+Finales Layout, Gestaltbarkeit
+"Erweiterbarkeit
+Qualität"
+Erreichbarkeit, kann leicht erlernt werden, ist universell
+Einfachheit
