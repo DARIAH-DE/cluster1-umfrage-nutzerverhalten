@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8; mode: python; mode: auto-fill; fill-column: 78 -*-
-# Time-stamp: <2016-01-26 16:05:37 (kthoden)>
+# Time-stamp: <2016-02-11 15:06:51 (kthoden)>
 
 """Auswertung
 lade csv
@@ -442,7 +442,7 @@ def several_tools_per_phase(supertupel):
     fig, axes = plt.subplots(nrows=1, ncols=1)#, figsize=(20,10))
 
     axes.set_xlabel("BenutzerInnen", alpha=ALPHA_VALUE, ha='left')
-    axes.set_ylabel("Tools", alpha=ALPHA_VALUE, ha='left')
+    axes.set_ylabel("Kategorien", alpha=ALPHA_VALUE, ha='left')
 
     # Here we go!
     pvc2.plot(kind="barh", ax=axes, color=COLOURS[0], width=WIDTH)
